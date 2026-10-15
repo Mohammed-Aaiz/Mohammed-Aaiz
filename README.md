@@ -1,3 +1,4 @@
+![Profile Banner](https://github.com/Mohammed-Aaiz/Mohammed-Aaiz/blob/main/Blue%20and%20White%20Modern%20Project%20Manager%20LinkedIn%20Background%20Photo.png)
 <h1 align="center">Hi 👋, I'm Mohammed Aaiz</h1>
 <h3 align="center">A passionate AIML developer from India</h3>
 
