@@ -47,12 +47,10 @@
 <p>
   <img src="https://raw.githubusercontent.com/Mohammed-Aaiz/Mohammed-Aaiz/main/assets/icons/react.svg" width="48" height="48" alt="React" title="React and React Native" />
   <img src="https://raw.githubusercontent.com/Mohammed-Aaiz/Mohammed-Aaiz/main/assets/icons/nodejs.svg" width="48" height="48" alt="Node.js" title="Node.js" />
-  <img src="https://raw.githubusercontent.com/Mohammed-Aaiz/Mohammed-Aaiz/main/assets/icons/java.svg" width="48" height="48" alt="Java" title="Java" />
-  <img src="https://raw.githubusercontent.com/Mohammed-Aaiz/Mohammed-Aaiz/main/assets/icons/c.svg" width="48" height="48" alt="C" title="C" />
   <img src="https://raw.githubusercontent.com/Mohammed-Aaiz/Mohammed-Aaiz/main/assets/icons/html.svg" width="48" height="48" alt="HTML" title="HTML" />
   <img src="https://raw.githubusercontent.com/Mohammed-Aaiz/Mohammed-Aaiz/main/assets/icons/css.svg" width="48" height="48" alt="CSS" title="CSS" />
 </p>
-<sub>React · React Native · Node.js<br />Java · C · HTML · CSS</sub>
+<sub>React · React Native · Node.js<br />HTML · CSS</sub>
 </td>
 </tr>
 <tr>
@@ -78,7 +76,17 @@
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/Mohammed-Aaiz/Mohammed-Aaiz/main/assets/section-learning.svg" width="100%" alt="03 — Exploring the next frontier" />
+<img src="https://raw.githubusercontent.com/Mohammed-Aaiz/Mohammed-Aaiz/main/assets/section-contributions.svg" width="100%" alt="03 — My contributions, in motion" />
+
+<p align="center"><b>A little progress. A lot of pixels.</b><br />Watch the neon snake make its way through my GitHub contribution calendar.</p>
+
+<p align="center">
+  <a href="https://github.com/Mohammed-Aaiz?tab=overview"><img src="https://raw.githubusercontent.com/Mohammed-Aaiz/Mohammed-Aaiz/main/assets/contribution-snake.gif" width="100%" alt="An animated neon snake traversing Mohammed Aaiz's actual GitHub contribution calendar." /></a>
+</p>
+
+<p align="center"><sub>Generated from my GitHub contribution calendar · Refreshed daily · <a href="https://github.com/Mohammed-Aaiz/Mohammed-Aaiz/actions/workflows/contributions.yml">View latest refresh ↗</a></sub></p>
+
+<img src="https://raw.githubusercontent.com/Mohammed-Aaiz/Mohammed-Aaiz/main/assets/section-learning.svg" width="100%" alt="04 — Exploring the next frontier" />
 
 <p align="center"><b>The next chapter of my learning journey.</b><br />New tools. Better questions. More experiments.</p>
 
@@ -97,7 +105,7 @@
 
 </details>
 
-<img src="https://raw.githubusercontent.com/Mohammed-Aaiz/Mohammed-Aaiz/main/assets/section-connect.svg" width="100%" alt="04 — Good ideas start with a hello" />
+<img src="https://raw.githubusercontent.com/Mohammed-Aaiz/Mohammed-Aaiz/main/assets/section-connect.svg" width="100%" alt="05 — Good ideas start with a hello" />
 
 <p align="center">
   Interested in AI, swapping ideas, or building something together?<br />
@@ -105,7 +113,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-aaiz/"><img src="https://raw.githubusercontent.com/Mohammed-Aaiz/Mohammed-Aaiz/main/assets/link-linkedin.svg" width="170" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-aaiz-73929b324/"><img src="https://raw.githubusercontent.com/Mohammed-Aaiz/Mohammed-Aaiz/main/assets/link-linkedin.svg" width="170" alt="Connect on LinkedIn" /></a>
   <a href="https://www.kaggle.com/mohammedaaiz"><img src="https://raw.githubusercontent.com/Mohammed-Aaiz/Mohammed-Aaiz/main/assets/link-kaggle.svg" width="170" alt="Find me on Kaggle" /></a>
   <a href="mailto:aaizmoh9@gmail.com"><img src="https://raw.githubusercontent.com/Mohammed-Aaiz/Mohammed-Aaiz/main/assets/link-email.svg" width="170" alt="Email aaizmoh9@gmail.com" /></a>
   <a href="https://www.instagram.com/aaizmoh9/"><img src="https://raw.githubusercontent.com/Mohammed-Aaiz/Mohammed-Aaiz/main/assets/link-instagram.svg" width="170" alt="Follow on Instagram" /></a>
