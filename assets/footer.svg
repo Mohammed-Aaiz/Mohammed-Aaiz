@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="135" viewBox="0 0 1200 135" role="img"><title>Stay curious. Keep creating.</title><defs>
+ <linearGradient id="ink" x2="1" y2="1"><stop stop-color="#070914"/><stop offset="1" stop-color="#10112a"/></linearGradient>
+ <linearGradient id="neon" x2="1" y2=".4"><stop stop-color="#62f5ff"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#ff58cf"/></linearGradient>
+ <radialGradient id="purple"><stop stop-color="#a132ff" stop-opacity=".36"/><stop offset="1" stop-color="#a132ff" stop-opacity="0"/></radialGradient>
+ <radialGradient id="cyan"><stop stop-color="#00e0ef" stop-opacity=".19"/><stop offset="1" stop-color="#00e0ef" stop-opacity="0"/></radialGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5"/></filter>
+ <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#a3a6ff" stroke-opacity=".045"/></pattern>
+</defs><path d="M0 1H1200" stroke="url(#neon)" opacity=".6"/><ellipse cx="600" cy="160" rx="550" ry="160" fill="url(#purple)"/><text x="600" y="59" fill="#e0d2f4" font-family="Segoe UI, Arial, sans-serif" font-size="23" text-anchor="middle" font-weight="700" letter-spacing="4">STAY CURIOUS. KEEP CREATING.</text><text x="600" y="94" fill="#9c86b4" font-family="Segoe UI, Arial, sans-serif" font-size="12" text-anchor="middle" letter-spacing="3">MOHAMMED AAIZ  /  @MOHAMMED-AAIZ</text></svg>

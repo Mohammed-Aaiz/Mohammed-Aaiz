@@ -1,74 +1,118 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Mohammed Aaiz — AI and ML developer. Building intelligence with evidence." width="100%" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero.svg" />
+    <img src="./assets/hero.gif" width="100%" alt="Mohammed Aaiz — AI and ML developer from India. An animated neon neural globe. Teaching machines. Training myself." />
+  </picture>
+</p>
+
+<h3 align="center">Artificial Intelligence &nbsp;✦&nbsp; Machine Learning &nbsp;✦&nbsp; Computer Vision</h3>
+
+<p align="center">
+  <b>Turning curiosity into code, one experiment at a time.</b><br />
+  Learning how intelligent systems work — and how to make them useful.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-aaiz/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:aaizmoh9@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s_talk-22D3EE?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email Mohammed Aaiz" /></a>
-  <a href="https://github.com/Mohammed-Aaiz/documind"><img src="https://img.shields.io/badge/Building-DocuMind-8B5CF6?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore DocuMind on GitHub" /></a>
+  <a href="https://github.com/Mohammed-Aaiz?tab=repositories">Explore my repositories ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:aaizmoh9@gmail.com">Let's talk ↗</a>
 </p>
 
-<h3 align="center">From documents to evidence. From ideas to working software.</h3>
+<img src="./assets/section-about.svg" width="100%" alt="01 — The person behind the code" />
 
-I'm **Mohammed Aaiz**, an AI & ML developer from India. I'm interested in how machine learning, retrieval, and thoughtful product design come together to make useful software.
+<p align="center">
+  <picture><source media="(max-width: 600px)" srcset="./assets/about-mobile.svg" /><img src="./assets/about.svg" width="100%" alt="I'm Mohammed Aaiz, an AI and ML developer based in India. I learn by building and explore intelligent systems, computer vision, and useful software." /></picture>
+</p>
 
-Right now, I'm building **DocuMind** and exploring a question that drives my work: **how can AI make its answers easier to trace back to the source?**
+<img src="./assets/section-stack.svg" width="100%" alt="02 — My digital toolbox" />
 
----
-
-## Featured project · DocuMind
-
-### Document intelligence, built around evidence.
-
-[**DocuMind**](https://github.com/Mohammed-Aaiz/documind) is my document-intelligence and question-answering project. It brings document structure, semantic retrieval, and source-grounded answers into one workspace.
-
-| Focus | What I'm building |
-| :--- | :--- |
-| **Understand the document** | Ingest PDF, DOCX, and TXT files while preserving useful document structure. |
-| **Retrieve the evidence** | Combine semantic search with document structure and graph-based retrieval. |
-| **Keep answers traceable** | Connect generated answers to their supporting source material. |
-| **Support different workflows** | Separate Student and Research workspaces and conversations. |
-
-**Project stack:** Python · FastAPI · PostgreSQL / pgvector · React · TypeScript · Groq
-
-<a href="https://github.com/Mohammed-Aaiz/documind"><img src="https://img.shields.io/badge/Explore_DocuMind_%E2%86%92-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=22D3EE" alt="Explore the DocuMind repository" /></a>
-
-<sub>Actively developing. The project README documents current capabilities, setup, and known limitations.</sub>
-
----
-
-## My toolkit
-
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<h3>🧠 &nbsp; Intelligence &amp; data</h3>
+<p>Models, patterns, and a little experimentation.</p>
 <p>
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&amp;logo=pytorch&amp;logoColor=EE4C2C" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-0F172A?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=FF6F00" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&amp;logo=git&amp;logoColor=F05032" alt="Git" />
+  <img src="./assets/icons/python.svg" width="48" height="48" alt="Python" title="Python" />
+  <img src="./assets/icons/pytorch.svg" width="48" height="48" alt="PyTorch" title="PyTorch" />
+  <img src="./assets/icons/tensorflow.svg" width="48" height="48" alt="TensorFlow" title="TensorFlow" />
+  <img src="./assets/icons/sklearn.svg" width="48" height="48" alt="scikit-learn" title="scikit-learn" />
+  <img src="./assets/icons/opencv.svg" width="48" height="48" alt="OpenCV" title="OpenCV" />
+  <img src="./assets/icons/pandas.svg" width="48" height="48" alt="pandas" title="pandas" />
+</p>
+<sub>Python · PyTorch · TensorFlow<br />scikit-learn · OpenCV · pandas · Seaborn</sub>
+</td>
+<td align="center" width="50%">
+<h3>⚡ &nbsp; Software &amp; interfaces</h3>
+<p>From the logic underneath to the experience on top.</p>
+<p>
+  <img src="./assets/icons/react.svg" width="48" height="48" alt="React" title="React and React Native" />
+  <img src="./assets/icons/nodejs.svg" width="48" height="48" alt="Node.js" title="Node.js" />
+  <img src="./assets/icons/java.svg" width="48" height="48" alt="Java" title="Java" />
+  <img src="./assets/icons/c.svg" width="48" height="48" alt="C" title="C" />
+  <img src="./assets/icons/html.svg" width="48" height="48" alt="HTML" title="HTML" />
+  <img src="./assets/icons/css.svg" width="48" height="48" alt="CSS" title="CSS" />
+</p>
+<sub>React · React Native · Node.js<br />Java · C · HTML · CSS</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<h3>🗃️ &nbsp; Behind the scenes</h3>
+<p>Giving applications a place to remember.</p>
+<p>
+  <img src="./assets/icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="./assets/icons/mongodb.svg" width="48" height="48" alt="MongoDB" title="MongoDB" />
+  <img src="./assets/icons/sqlite.svg" width="48" height="48" alt="SQLite" title="SQLite" />
+</p>
+<sub>PostgreSQL · MongoDB · SQLite</sub>
+</td>
+<td align="center">
+<h3>☁️ &nbsp; Workflow &amp; cloud</h3>
+<p>Versioning ideas. Exploring the cloud.</p>
+<p>
+  <img src="./assets/icons/git.svg" width="48" height="48" alt="Git" title="Git" />
+  <img src="./assets/icons/aws.svg" width="48" height="48" alt="Amazon Web Services" title="Amazon Web Services" />
+</p>
+<sub>Git · AWS<br />Learning Docker &amp; Kubernetes ↓</sub>
+</td>
+</tr>
+</table>
+
+<img src="./assets/section-learning.svg" width="100%" alt="03 — Exploring the next frontier" />
+
+<p align="center"><b>The next chapter of my learning journey.</b><br />New tools. Better questions. More experiments.</p>
+
+<p align="center">
+  <img src="./assets/learn-agents.svg" width="250" alt="Learning agentic AI: tool use, planning, and intelligent workflows." />
+  <img src="./assets/learn-cloud.svg" width="250" alt="Learning Docker and Kubernetes: containers and application orchestration." />
+  <img src="./assets/learn-rl.svg" width="250" alt="Learning reinforcement learning: agents, feedback, and rewards." />
 </p>
 
-| Area | Languages & tools |
-| :--- | :--- |
-| **Programming** | Python, Java, C |
-| **Machine learning & vision** | PyTorch, TensorFlow, scikit-learn, OpenCV |
-| **Data analysis** | pandas, Seaborn |
-| **Web & mobile** | React, React Native, Node.js, HTML, CSS |
-| **Databases** | PostgreSQL, MongoDB, SQLite |
-| **Cloud & version control** | AWS, Git |
+<details>
+<summary><b>↳ A closer look at what I'm exploring</b></summary>
 
-## Currently exploring
-
-- **Agentic AI** — tool use, planning, and workflows for AI applications.
+- **Agentic AI** — how models use tools, plan steps, and work through tasks.
 - **Docker & Kubernetes** — packaging applications and understanding orchestration.
-- **Reinforcement learning** — how agents learn through feedback and rewards.
+- **Reinforcement learning** — how agents learn from feedback and rewards.
 
----
+</details>
 
-## Let's connect
+<img src="./assets/section-connect.svg" width="100%" alt="04 — Good ideas start with a hello" />
 
-Have an idea around document AI, retrieval, or machine learning? I'd enjoy hearing about it.
+<p align="center">
+  Interested in AI, swapping ideas, or building something together?<br />
+  <b>My inbox is a good place to start.</b>
+</p>
 
-**[LinkedIn](https://www.linkedin.com/in/mohammed-aaiz/)** · **[Kaggle](https://www.kaggle.com/mohammedaaiz)** · **[Email](mailto:aaizmoh9@gmail.com)** · **[Instagram](https://www.instagram.com/aaizmoh9/)**
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-aaiz/"><img src="./assets/link-linkedin.svg" width="170" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.kaggle.com/mohammedaaiz"><img src="./assets/link-kaggle.svg" width="170" alt="Find me on Kaggle" /></a>
+  <a href="mailto:aaizmoh9@gmail.com"><img src="./assets/link-email.svg" width="170" alt="Email aaizmoh9@gmail.com" /></a>
+  <a href="https://www.instagram.com/aaizmoh9/"><img src="./assets/link-instagram.svg" width="170" alt="Follow on Instagram" /></a>
+</p>
 
-<p align="center"><sub>Curious about intelligence. Careful about evidence. Always learning.</sub></p>
+<p align="center"><sub><a href="mailto:aaizmoh9@gmail.com">aaizmoh9@gmail.com</a></sub></p>
+
+<img src="./assets/footer.svg" width="100%" alt="Stay curious. Keep creating. Mohammed Aaiz." />
+
+<!-- Technology icons: Devicon, MIT license; see assets/icons/LICENSE.txt. -->

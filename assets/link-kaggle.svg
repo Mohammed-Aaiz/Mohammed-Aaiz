@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="235" height="64" viewBox="0 0 235 64" role="img"><title>Kaggle</title><defs>
+ <linearGradient id="ink" x2="1" y2="1"><stop stop-color="#070914"/><stop offset="1" stop-color="#10112a"/></linearGradient>
+ <linearGradient id="neon" x2="1" y2=".4"><stop stop-color="#62f5ff"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#ff58cf"/></linearGradient>
+ <radialGradient id="purple"><stop stop-color="#a132ff" stop-opacity=".36"/><stop offset="1" stop-color="#a132ff" stop-opacity="0"/></radialGradient>
+ <radialGradient id="cyan"><stop stop-color="#00e0ef" stop-opacity=".19"/><stop offset="1" stop-color="#00e0ef" stop-opacity="0"/></radialGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5"/></filter>
+ <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#a3a6ff" stroke-opacity=".045"/></pattern>
+</defs><rect x="1" y="1" width="233" height="62" rx="13" fill="#131022" stroke="#67e8f9" stroke-opacity=".6"/><rect x="11" y="11" width="42" height="42" rx="10" fill="#67e8f9" fill-opacity=".12"/><text x="32" y="40" fill="#67e8f9" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" text-anchor="middle">k</text><text x="69" y="40" fill="#eee7ff" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">Kaggle</text><text x="207" y="40" fill="#67e8f9" font-family="Segoe UI, Arial, sans-serif" font-size="19" >↗</text></svg>

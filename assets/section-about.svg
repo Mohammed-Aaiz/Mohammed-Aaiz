@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="94" viewBox="0 0 1200 94" role="img"><title>THE PERSON BEHIND THE CODE</title><defs>
+ <linearGradient id="ink" x2="1" y2="1"><stop stop-color="#070914"/><stop offset="1" stop-color="#10112a"/></linearGradient>
+ <linearGradient id="neon" x2="1" y2=".4"><stop stop-color="#62f5ff"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#ff58cf"/></linearGradient>
+ <radialGradient id="purple"><stop stop-color="#a132ff" stop-opacity=".36"/><stop offset="1" stop-color="#a132ff" stop-opacity="0"/></radialGradient>
+ <radialGradient id="cyan"><stop stop-color="#00e0ef" stop-opacity=".19"/><stop offset="1" stop-color="#00e0ef" stop-opacity="0"/></radialGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5"/></filter>
+ <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#a3a6ff" stroke-opacity=".045"/></pattern>
+</defs><rect x="0" y="25" width="5" height="44" rx="2" fill="url(#neon)"/><text x="24" y="57" fill="#b594ff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">01</text><text x="74" y="59" fill="#eae6ff" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="1">THE PERSON BEHIND THE CODE</text><path d="M656 48H1000" stroke="#40314d"/><text x="1030" y="54" fill="#a596bf" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="2">WHO I AM</text></svg>

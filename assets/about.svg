@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="332" viewBox="0 0 1200 332" role="img"><title>About Mohammed Aaiz: AI and ML developer based in India; learning by building.</title><defs>
+ <linearGradient id="ink" x2="1" y2="1"><stop stop-color="#070914"/><stop offset="1" stop-color="#10112a"/></linearGradient>
+ <linearGradient id="neon" x2="1" y2=".4"><stop stop-color="#62f5ff"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#ff58cf"/></linearGradient>
+ <radialGradient id="purple"><stop stop-color="#a132ff" stop-opacity=".36"/><stop offset="1" stop-color="#a132ff" stop-opacity="0"/></radialGradient>
+ <radialGradient id="cyan"><stop stop-color="#00e0ef" stop-opacity=".19"/><stop offset="1" stop-color="#00e0ef" stop-opacity="0"/></radialGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5"/></filter>
+ <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#a3a6ff" stroke-opacity=".045"/></pattern>
+</defs><rect x="1" y="1" width="1198" height="330" rx="24" fill="url(#ink)" stroke="#2b2546"/><rect width="1200" height="332" rx="24" fill="url(#grid)"/>
+ <ellipse cx="1090" cy="110" rx="350" ry="240" fill="url(#purple)"/>
+ <path d="M0 53H1200M596 54V331" stroke="#302741"/>
+ <circle cx="29" cy="28" r="5" fill="#ff6d92"/><circle cx="48" cy="28" r="5" fill="#f5c36b"/><circle cx="67" cy="28" r="5" fill="#a4ef80"/>
+ <text x="95" y="34" fill="#b8a7d0"  font-size="15" font-family="Consolas, Courier New, monospace">aaiz@github: ~/about-me</text>
+ <g font-family="Consolas, Courier New, monospace" font-size="22">
+ <text x="30" y="100" fill="#8fe9ff">$ whoami</text>
+ <text x="30" y="141" fill="#f1e9ff">Mohammed Aaiz</text>
+ <text x="30" y="190" fill="#a1a0ba">role     <tspan fill="#dab7ff">AI &amp; ML developer</tspan></text>
+ <text x="30" y="231" fill="#a1a0ba">location <tspan fill="#dab7ff">India</tspan></text>
+ <text x="30" y="272" fill="#a1a0ba">approach <tspan fill="#dab7ff">learn by building</tspan></text>
+ <rect x="30" y="295" width="10" height="16" fill="#a8edff"/>
+ </g>
+ <text x="636" y="107" fill="#f0e7ff" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">A CURIOUS MIND.</text>
+ <text x="636" y="147" fill="url(#neon)" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">AN OPEN EDITOR.</text>
+ <text x="636" y="202" fill="#bfb5d3" font-family="Segoe UI, Arial, sans-serif" font-size="24" >Exploring intelligent systems,</text>
+ <text x="636" y="236" fill="#bfb5d3" font-family="Segoe UI, Arial, sans-serif" font-size="24" >computer vision, and the ideas</text>
+ <text x="636" y="270" fill="#bfb5d3" font-family="Segoe UI, Arial, sans-serif" font-size="24" >that turn code into something useful.</text>
+ </svg>
