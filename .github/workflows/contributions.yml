@@ -1,0 +1,52 @@
+name: Refresh contribution animation
+
+on:
+  schedule:
+    - cron: '17 4 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/contributions.yml
+
+permissions:
+  contents: read
+
+concurrency:
+  group: contribution-animation
+  cancel-in-progress: false
+
+jobs:
+  animate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+
+      - name: Animate the real contribution calendar
+        uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/contribution-snake.gif?color_snake=#ff79dc&color_dots=#191329,#473064,#7851a9,#a879ed,#71edff&color_background=#0d1117
+            assets/contribution-snake.svg?color_snake=#ff79dc&color_dots=#191329,#473064,#7851a9,#a879ed,#71edff
+
+      - name: Publish refreshed artwork
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -s assets/contribution-snake.gif
+          test -s assets/contribution-snake.svg
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- assets/contribution-snake.gif assets/contribution-snake.svg
+          if git diff --cached --quiet; then
+            echo 'Contribution animation is already current.'
+            exit 0
+          fi
+          git commit -m 'Refresh contribution animation [skip ci]'
+          git pull --rebase origin main
+          git push origin HEAD:main
