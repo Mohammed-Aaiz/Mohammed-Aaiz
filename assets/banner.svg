@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Mohammed Aaiz — AI and ML developer</title>
+  <desc id="desc">A navy and cyan banner with connected evidence nodes. Building intelligence with evidence. India.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#091321"/><stop offset="1" stop-color="#111d36"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#155e75" stop-opacity=".45"/><stop offset="1" stop-color="#155e75" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7dd3fc" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="20" fill="url(#grid)"/>
+  <circle cx="1030" cy="180" r="270" fill="url(#halo)"/>
+  <path d="M48 1H1232" stroke="url(#accent)" stroke-width="2" opacity=".65"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="56" y="44" width="224" height="30" rx="15" fill="#122c3b" stroke="#21546a"/>
+    <circle cx="73" cy="59" r="4" fill="#22d3ee"/>
+    <text x="87" y="64" fill="#a5f3fc" font-size="12" font-weight="600" letter-spacing="1.7">AI / ML DEVELOPER</text>
+    <text x="56" y="155" fill="#f1f5f9" font-size="64" font-weight="700" letter-spacing="-2">Mohammed Aaiz<tspan fill="#22d3ee">.</tspan></text>
+    <text x="59" y="205" fill="#cbd5e1" font-size="24">Building intelligence with evidence.</text>
+    <rect x="59" y="239" width="48" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="59" y="287" fill="#8fa5bd" font-size="13" letter-spacing="2">DOCUMENT AI</text>
+    <circle cx="186" cy="282" r="2" fill="#46718b"/>
+    <text x="204" y="287" fill="#8fa5bd" font-size="13" letter-spacing="2">RETRIEVAL</text>
+    <circle cx="307" cy="282" r="2" fill="#46718b"/>
+    <text x="325" y="287" fill="#8fa5bd" font-size="13" letter-spacing="2">INDIA</text>
+  </g>
+  <g fill="none" stroke="#395572" stroke-width="1">
+    <circle cx="1030" cy="180" r="116" stroke-dasharray="3 9"/>
+    <circle cx="1030" cy="180" r="83" stroke-opacity=".5"/>
+    <path d="M929 122L1030 180L1130 122L1130 238L1030 180L929 238L929 122L1030 65L1130 122M929 238L1030 295L1130 238M1030 65V295"/>
+  </g>
+  <g fill="#10283a" stroke="#39829b" stroke-width="1.5">
+    <circle cx="929" cy="122" r="11"/><circle cx="1130" cy="122" r="11"/>
+    <circle cx="929" cy="238" r="11"/><circle cx="1130" cy="238" r="11"/>
+    <circle cx="1030" cy="65" r="8"/><circle cx="1030" cy="295" r="8"/>
+  </g>
+  <path d="M929 122L1030 180L1130 238" fill="none" stroke="url(#accent)" stroke-width="2"/>
+  <circle cx="1030" cy="180" r="34" fill="#12283e" stroke="#55d7ee" stroke-width="1.5"/>
+  <rect x="1018" y="164" width="24" height="31" rx="4" fill="none" stroke="#c4f6ff" stroke-width="1.7"/>
+  <path d="M1024 172H1036M1024 179H1036M1024 186H1032" stroke="#67e8f9" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="929" cy="122" r="3.5" fill="#67e8f9"/>
+  <circle cx="1130" cy="238" r="3.5" fill="#c4b5fd"/>
+</svg>
